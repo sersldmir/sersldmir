@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sersldmir, an aspiring IT-specialist
-- 👀 I’m interested in data engineering, working with big data, databases and a little bit machine learning.
-- 🌱 I’m currently learning Python, Java, SQL and C. 
-- 🚀 Plans: to learn R, C++, Scala and maybe Go in order to excel in my carreer
-- 💞️ I’m looking to collaborate on beginner data engineering and data science projects
+- 👋 Hi, I’m @sersldmir, an aspiring data engineer
+- 👀 I’m interested in working with big data and a little bit machine learning.
+- 🌱 I’m currently learning Python, Java, SQL an. 
+- 🚀 Plans: to learn Scala, Go in order to excel in my carreer
 - 📫 How to reach me: sld07.cl@gmail.com
 
 <!---
