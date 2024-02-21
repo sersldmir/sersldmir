@@ -23,8 +23,7 @@
 ### :man_technologist: About Me :
 
 - 💻 I am an aspiring data engineer
-- 👀 Interested in big data and machine learning
-- 📊 Analytics is boring, ETL/DWH for life
+- 👀 Interested in big data and machine learning, fullsatck development and devops
 - 📫 How to reach me: ![Gmail Badge](https://img.shields.io/badge/-sld07.cl@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
 
 ---
